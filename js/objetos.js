@@ -43,7 +43,7 @@ export const games = [
         preco: 219.00
     },
     {
-        imagem: './images/games/game-7.png',
+        imagem: './images/games/game-8.png',
         nome: 'Groes Gortins',
         plataformas: 'FPS | Arcade | PC - Mobile',
         preco: 229.00
